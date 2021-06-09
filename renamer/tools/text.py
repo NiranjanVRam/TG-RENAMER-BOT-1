@@ -22,11 +22,9 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [Click Here](https://t.me/MOVIECLUB_CHAT)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
-
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Group:** [Click Here](https://t.me/MovieClubOfficiall)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -35,8 +33,6 @@ class TEXT:
 ☞︎︎︎ Send a photo to set as permanent thumbnail.
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
-
-For source code check about
 """
 
     START_TEXT = """Hi {user_mention},
@@ -49,14 +45,4 @@ I am a telegram renamer with permanent thumbnail.
 """
 
 
-    DONATE_USER = """**__Thanks for showing interest in donation.__**
- 
-Donate us to keep our services continously alive
-You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
- 
-__--Payment Methods:--__
- 
-GooglePay / Paytm / PhonPay / paypal / Net Banking
- 
-**For Donate:** message me @MaxxRiderz"""
+    DONATE_USER = """**__Thanks for showing interest in donation.__**"""
