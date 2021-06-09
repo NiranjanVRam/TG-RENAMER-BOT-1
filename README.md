@@ -7,7 +7,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/NickxFury/TG-RENAMER-BOT/tree/For-Group)
 
 [Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#bot-features-)
 
@@ -24,7 +24,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NickxFury/TG-RENAMER-BOT/tree/For-Group)
 
 ## Bot Features 🔥
 - Support only in Group.
