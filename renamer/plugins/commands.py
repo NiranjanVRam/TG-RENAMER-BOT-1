@@ -40,7 +40,7 @@ async def help(c, m, cb=False):
 @RenamerNs.on_message(filters.command("start") & filters.private & filters.incoming)
 async def start(c, m, cb=False):
     owner = await c.get_users(Config.OWNER_ID)
-    owner_username = owner.username if owner.username else 'DEV_Bots_Updates'
+    owner_username = owner.username if owner.username else 'liqwid_x'
     button = [[
         InlineKeyboardButton(f'{MAN_TEACHER_LIGHT_SKIN_TONE} My Owner', url=f'https://t.me/{owner_username}'),
         InlineKeyboardButton(f'{ROBOT} About', callback_data='about')
@@ -140,7 +140,7 @@ async def password(c, m):
 
         is_logged = (await get_data(m.from_user.id)).is_logged
         if is_logged:
-            return await m.reply_text(f"__You are already loggedin {VICTORY_HAND}.__", quote=True)
+            return await m.reply_text(f"__You are already logged in {VICTORY_HAND}.__", quote=True)
 
         if len(m.command) == 1:
             await m.reply_text('Send me the bot password in the format `/login password`')
